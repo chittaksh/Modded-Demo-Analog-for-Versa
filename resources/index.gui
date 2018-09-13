@@ -1,0 +1,14 @@
+<svg viewport-fill="#111111">
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-2" y="-115" width="4" height="115" fill="#ffffff" />
+  </g>
+  <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-3" y="-80" width="6" height="80" fill="#ffffff" />
+  </g>
+  <g id="secs" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-1" y="-125" width="2" height="125" fill="#ff0000" />
+  </g>
+  <circle cx="50%" cy="50%" r="10" fill="#444444" />
+  <text id="date1" class="date1" />
+  <text id="date2" class="date2" />
+</svg>
